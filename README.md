@@ -1,8 +1,8 @@
-### Hi, I'm Boaz 👋
+- 👋 Hi, I'm Boaz!
 - 🌱 I’m currently studying at Cornell University
-- 💬 Ask me about keyboards, fish tanks, or food :)
-- 📫 How to reach me: here[https://www.linkedin.com/in/boaz-ng]
-- 
+- 💬 Ask me about keyboards, fish tanks, or cooking :)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/boaz-ng)
+
 <!--
 **boaz-ng/boaz-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
