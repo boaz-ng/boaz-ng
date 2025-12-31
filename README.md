@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Boaz!
 - 🌱 I’m currently studying at Cornell University
-- 💬 Ask me about keyboards, fish tanks, or cooking :)
+- 💬 Ask me about climbing, keyboards, or cooking :)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/boaz-ng)
 
 <!--
